@@ -3,4 +3,3 @@ python-dotenv
 redlines
 panel
 jupyter_bokeh
-bokeh
