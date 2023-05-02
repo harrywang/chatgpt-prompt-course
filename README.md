@@ -25,3 +25,9 @@ Only minor changes were made to the original code:
 - corrected some typos
 - changed the translation to Chinese
 
+# Resources
+
+Additional useful resources:
+
+- https://github.com/f/awesome-chatgpt-prompts
+
